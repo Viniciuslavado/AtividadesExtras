@@ -1,0 +1,60 @@
+Wish List
+1 – Quartos aconchegantes.  
+2 - Espaço Kids
+3 - Passeios (terrestre e marítimos) 
+4 - Restaurantes
+5 - Recreações
+6 - Bom atendimento
+7 - Localização
+8 - Complexo Fitness
+9 - Espaço Coworking
+
+1 – Quartos aconchegantes: na procura de um resort é essencial que os quartos sejam confortáveis pois uma ótima de sono melhora a experiência da estadia.
+2 – Espaço Kids: é importante ter um espaço adequado kids para que tanto crianças quanto os pais vivam a experiência completa.
+4 – Restaurantes: ter mais de uma opção de restaurante dentro do complexo, um com foco na comida local e outros explorando todo a área da gastronomia.
+7 – Localização: Localizado na Praia do Forte, uma das praias mais tradicionais da Bahia.
+Prioridades:
+7 – Localização: Localizado na Praia do Forte, uma das praias mais tradicionais da Bahia.
+1 – Quartos aconchegantes: na procura de um resort é essencial que os quartos sejam confortáveis pois uma ótima de sono melhora a experiência da estadia.
+4 – Restaurantes: ter mais de uma opção de restaurante dentro do complexo, um com foco na comida local e outros explorando todo a área da gastronomia.
+2 – Espaço Kids: é importante ter um espaço adequado kids para que tanto crianças quanto os pais vivam a experiência completa.
+
+
+
+
+
+
+
+
+
+Execução das Sprints:
+7 - Localização
+Atividades	Em execução 	Concluído 
+		Procura de uma boa localização
+		Melhor aluguel
+	Calculo do orçamento	
+Adequação do lugar		
+
+1 – Quartos aconchegantes
+Atividades	Em execução 	Concluído 
+	Calculo do orçamento	
+Procura de mobília		
+Organização de Serviço de quarto		
+
+4 - Restaurantes
+Atividades	Em execução 	Concluído 
+		Estruturação
+	Calculo do orçamento	
+Montagem de cardápios 		
+Procura de insumos		
+
+2 – Espaço Kids
+Atividades	Em execução 	Concluído 
+		Estruturação
+	Calculo do orçamento	
+Pesquisa de funcionários		
+Compra de equipamentos de playground		
+
+Daily Scrum – Duração 15 min.
+Todos os dias observar o andamento do projeto de modo geral.
+Pontuar as dificuldades de execução e buscar soluções.
